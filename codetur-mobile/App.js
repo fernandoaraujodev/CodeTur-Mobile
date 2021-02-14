@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>CAMILLA</Text>
+      <Text>CodeTur iniciado</Text>
       <StatusBar style="auto" />
     </View>
   );
